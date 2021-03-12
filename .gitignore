@@ -1,0 +1,4 @@
+dataset/
+dataset_joblib/
+model_res/
+*.wav
