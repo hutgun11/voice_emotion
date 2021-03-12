@@ -1,0 +1,6 @@
+['remote "myremote"']
+url = ..\gdrive:\13mP1xZnrjdCJvLov632adYa0d1aZPDId\dvc_storage
+[core]
+remote = myremote
+['remote "storage"']
+url = ..\gdrive:\13mP1xZnrjdCJvLov632adYa0d1aZPDId
